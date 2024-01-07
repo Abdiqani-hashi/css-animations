@@ -20,7 +20,7 @@ body{
   border-radius: 50px;
   cursor: pointer;
 
-  transition: background 1s,  transform 0.3s 1s;
+  transition: background 1s,  transform 1s 1s linear;
 
 }
 .circle:hover{
